@@ -1,19 +1,9 @@
-# FiveM-Loading Screen
+# nc-loadingscreen // #1
 
-This is a simple loading screen with loading animation + background audio for GTA Online FiveM servers.
+- In the loading screen you have the option to see a date, number of players online to the server, description of the server, staff and lots of other things that you can see in the video below.
+- If you need help you can join to ur discord - https://discord.gg/NCHub
 
-## Features 💫
+## Video & Screenshot
 
-- Loading animation
-- Shows loading percentage
-- Background image slideshow
-- Plays a background audio
-
-## How to install 📖
-
-Open your FiveM server 'Resources' folder and copy 'FiveM-loadingScreen' folder into it.
-
-## Customizing the loading screen 🪄
-
-If you want to change the loading pictures in the background, simply change the images in the '/assets' folder.
-Change the background audio by replacing the 'song.mp3' file in the '/music' folder.
+- click - https://streamable.com/s1hwk8
+![nc-loadingscreen](https://i.ibb.co/h9L9TNS/Screenshot-1.png)

@@ -15,7 +15,8 @@ Config.CustomBindText = "M"; // leave as "" if you don't want the bind text in h
 // Staff list
 Config.Staff = [
     {name: "SLBRAVO_06", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/avatars/504350803494961162/9c0a85163928a71e04089e7309b504ce.webp"},
-    {name: "GTABros Fam", description: "Management", color: "#ff0000", image: "https://cdn.discordapp.com/icons/805109404672065536/f3d00fc1e5f5d7c86f3407a0d604b3b1.webp"},
+    {name: "GTABros Fam", description: "Management", color: "#ff0000", image: "https://cdn.discordapp.com/icons/805109404672065536/1e0adb6d4fd9b6efa01c387ca9a5800e.png"},
+    {name: "GhostX", description: "Cinematographer", color: "#ff0000", image: "https://cdn.discordapp.com/avatars/1040684716191395850/e902df62fc53ab0c2db5b81f69869ba2.webp"},
 
 ];
 
